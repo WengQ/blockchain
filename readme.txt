@@ -15,3 +15,4 @@ exit but not keep the changes
 exit(not recommended) 
 :!
 
+reset test

@@ -1,5 +1,25 @@
 this is my git repositoty for blockchain
 
+noobchain: basic blockchain class with mining function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 here are 4 ways to exit vim while keep the changes.
 :wq
 :x
